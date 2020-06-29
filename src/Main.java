@@ -18,6 +18,7 @@ public class Main {
 
             sum = squaredNumber + sum;  //sum+=squaredNumber;
         }
+        
         System.out.println("suma wszystkich: " + sum);
     }
 }
